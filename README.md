@@ -1,5 +1,9 @@
 # Scripts
-1. Some common scripts to install(linux), let me help you to install easily
-2. Easily run in docker 
-3. Dont forget to give full file executable by entering this command ~$ chmod +x ./script
-4. Then run ~$ ./script
+1. Some common packages to install in linux based system.
+2. It will support in Docker based linux image. 
+
+# Installing 
+git clone https://github.com/Saga7r/Scripts
+cd Scripts
+chmod +x scripts.sh
+./scripts.sh
