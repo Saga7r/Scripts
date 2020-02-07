@@ -5,5 +5,5 @@
 # Installing 
 * git clone https://github.com/Saga7r/Scripts
 * cd Scripts
-* chmod +x scripts.sh
+* chmod +x script.sh
 * ./scripts.sh
