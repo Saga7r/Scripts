@@ -3,7 +3,7 @@
 2. It will support in Docker based linux image. 
 
 # Installing 
-git clone https://github.com/Saga7r/Scripts
-cd Scripts
-chmod +x scripts.sh
-./scripts.sh
+* git clone https://github.com/Saga7r/Scripts
+* cd Scripts
+* chmod +x scripts.sh
+* ./scripts.sh
