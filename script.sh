@@ -3,10 +3,11 @@
  apt-get  upgrade
  
 
- apt-get install -y wget
  apt-get install -y git
+ apt-get install -y wget
  apt-get install -y vim
- 
+ apt-get install -y nano 
+  
 
 if [[ -z "$GOPATH" ]];then
 echo "It looks like go is not installed, would you like to install it now"
